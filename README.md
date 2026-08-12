@@ -79,8 +79,8 @@ Antes de começar, garanta que você possui instalado em sua máquina:
 
 ### 1. Clonar o repositório
 ```bash
-git clone [https://github.com/lucasmoraes/projeto-csharp-identity.git](https://github.com/lucasmoraes/projeto-csharp-identity.git)
-cd projeto-csharp-identity
+git clone [[https://github.com/lucasmoraes/projeto-csharp-identity.git](https://github.com/lucasmoraes/projeto-csharp-identity.git)
+cd projeto-csharp-identity](https://github.com/GustavoAndrade0/TelainicialCrud.git)
 
 
 by GustavoAndrade0
